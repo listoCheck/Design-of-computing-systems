@@ -4,3 +4,15 @@ lab1/Release/
 lab1/build/
 lab1/.settings/
 **/__pycache__/
+lab2/build/
+lab2/Debug/
+lab2/Release/
+lab2/.settings/
+/.lab2-ide-workspace/
+lab3/build/
+lab3/Debug/
+lab3/Release/
+lab3/.settings/*
+!lab3/.settings/org.eclipse.core.resources.prefs
+/.lab3-ide-workspace/
+lab3/logs/
