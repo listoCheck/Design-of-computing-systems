@@ -16,3 +16,8 @@ lab3/.settings/*
 !lab3/.settings/org.eclipse.core.resources.prefs
 /.lab3-ide-workspace/
 lab3/logs/
+lab4/build/
+lab4/Debug/
+lab4/Release/
+lab4/.settings/
+/.lab4-ide-workspace/
